@@ -1,6 +1,6 @@
 # spfx-mgt-setup-demo
 
-Demo web part based on React framework to demonstrate how to setup Microsoft Graph Toolkit with SharePoint Framework (SFPx).
+Demo web part solution based on React framework to demonstrate how to setup Microsoft Graph Toolkit (MGT) with SharePoint Framework (SFPx).
 
 1) Deploy mgt-spfx library on your tenant App Catalog:
 https://github.com/microsoftgraph/microsoft-graph-toolkit/releases
